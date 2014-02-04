@@ -1,6 +1,6 @@
 def isFactor(a,b):
     answer= b%a==0
-    return Answer
+    return (answer)
     
 print(isFactor(5,10))
 #result should be True
